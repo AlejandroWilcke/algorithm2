@@ -5,7 +5,7 @@ git clone https://github.com/AlejandroWilcke/algorithm2
 
 # Install
 ```
-cd algorithm && npm install
+cd algorithm2 && npm install
 ```
 
 # Test
